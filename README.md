@@ -1,3 +1,5 @@
+
+
 # Data Analytics Power BI Report
 
 In this project I:
@@ -10,3 +12,10 @@ measures to support visualisations and time intelligence
 - Constructed 5 SQL queries for the same data to generate insights for use
 outside of the Power BI environment.
 
+### Step 1. Import Data
+<div style="text-align: center"><img src="" width=80%></img></div>
+
+To simulate a real-world scenario, I imported data from a variety of data sources, including an Azure SQL DB, an Azure Blob Storage account, and web-hosted .csv files. I then performed data cleaning by removing irrelevant columns, splitting datetime details, concatenating other columns, maintaining data consistency and tidy naming conventions.
+
+### Step 2. Build Data Model
+<div style="text-align: center"><img src="images/data_model.png" width=80%></img></div>
