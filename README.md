@@ -19,10 +19,16 @@ To simulate a real-world scenario, I imported data from a variety of data source
 
 ### Step 2. Build Data Model
 <div style="text-align: center"><img src="images/data_model.png" width=80%></img></div>
-I create a star-schema by centring the data around the `Orders` fact table,
+I created a star-schema by centring the data around the `Orders` fact table,
 and establishing one-to-many relationships with the various dimension tables.
 
 This includes creating a date table from an M query, which dynamically chooses the fact table's earliest date as the start and the last as the end. This means as the data gets updated, so does the date table.
 
-### Step 3. Set Up Report
+### Step 3. Customer Detail Page
+<div style="text-align: center"><img src="images/customer_detail.png" width=80%></img></div>
+I started with a page called `Customer Detail`, which focused on the people bringing business to the org.
+
+I included visuals with customer by country & by product category breakdowns. I then graphed the trend of the total customer count per month as well as forecasting, with seasonality in mind, into the future. The 
+
+
 
