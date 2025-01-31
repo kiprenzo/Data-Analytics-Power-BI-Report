@@ -30,4 +30,15 @@ I started with a page called `Customer Detail`, which focused on the people brin
 
 I included visuals with customer by country & by product category breakdowns. I then graphed the trend of the total customer count per month as well as forecasting, with seasonality in mind, into the future.
 
+### Step 4. Executive Summary Page
+<div style="text-align: center"><img src="images/exec_summary.png" width=100%></img></div>
+This page is meant for the exec team of our fictional org, for a high-level overview of the company's performance. We have visuals for three quarterly KPIs, each with their own target calculations; some donut & bar charts to see the split between product category, country & store type revenue; and a line graph of the revenue trend, again with forecasting.
+
+
+### Step 5. Product Detail Page
+<div style="text-align: center"><img src="images/product_detail.gif" width=100%></img></div>
+For this page, the focus was on hitting targets, the progress for which was displayed via the gauge visual, and tracking the most profitable and successful products.
+
+I also began work on the navigation bar on the left of every page, in this case by adding a **slicer button**. This utilizes PowerBI's bookmarks feature to save several states of the report, hiding and unhiding visuals, and works neatly as a pop-out menu that would otherwise be cluttering the report.
+
 
