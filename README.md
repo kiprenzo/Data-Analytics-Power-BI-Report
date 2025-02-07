@@ -48,3 +48,9 @@ Here, I set up a map visual showing us the various stores of the organization an
 ### Step 7. Navigation Bar
 <div style="text-align: center"><img src="images/nav_bar.gif" width=100%></img></div>
 To aid with overall usability and UI consistency, I added navigation buttons to each of the pages.
+
+### Step 8. SQL Queries
+<div style="text-align: center"><img src="images/sql.png" width=100%></img></div>
+As it is common in the industry for some colleagues or clients to not have direct access to visualisation tools like Power BI, I wrote 5 SQL queries to answer questions of varying complexity, ensuring these insights can still be extracted from the data and shared with a broader audience. You can find the `.sql` and extracted `.csv`s in the SQL folder of this repo.
+
+I connected to the same DB with secure credentials via SQLTools in VSCode.
