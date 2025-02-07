@@ -26,7 +26,7 @@ This includes creating a date table from an M query, which dynamically chooses t
 
 ### Step 3. Customer Detail Page
 <div style="text-align: center"><img src="images/customer_detail.png" width=100%></img></div>
-I started with a page called `Customer Detail`, which focused on the people bringing business to the organization.
+I started with a page called `Customer Detail`, which focused on the organization's clientelle.
 
 I included visuals with customer by country & by product category breakdowns. I then graphed the trend of the total customer count per month as well as forecasting, with seasonality in mind, into the future.
 
