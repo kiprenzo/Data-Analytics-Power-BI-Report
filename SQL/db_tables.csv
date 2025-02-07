@@ -1,0 +1,7 @@
+"schemaname","tablename","tableowner","tablespace","hasindexes","hasrules","hastriggers","rowsecurity"
+"public","dim_users","maya","",1,"","",""
+"public","dim_stores","maya","",1,"","",""
+"public","dim_date","maya","",1,"",1,""
+"public","orders","maya","",1,"",1,""
+"public","dim_products","maya","",1,"","",""
+"public","temp1","maya","","","","",""
