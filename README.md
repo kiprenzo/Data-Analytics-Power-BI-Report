@@ -45,3 +45,6 @@ I also began work on the navigation bar on the left of every page, in this case 
 <div style="text-align: center"><img src="images/stores_map.gif" width=100%></img></div>
 Here, I set up a map visual showing us the various stores of the organization and their Profit Year-to-Date. This page also allows drilling-through individual stores to see them in extended detail, as well as a hover-tooltip to quickly see how the store is doing in regards to year-on-year targets, all calculated within the report.
 
+### Step 7. Navigation Bar
+<div style="text-align: center"><img src="images/nav_bar.gif" width=100%></img></div>
+To aid with overall usability and UI consistency, I added navigation buttons to each of the pages.
