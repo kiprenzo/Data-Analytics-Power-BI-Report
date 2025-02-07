@@ -3,7 +3,7 @@
 # Data Analytics Power BI Report
 
 In this project I:
-- Performed ETL on a 120,000-record e-commerce data-set, extracting data
+- Performed ETL on a sample 120,000-record e-commerce data-set, extracting data
 from Azure Storage and Azure SQL Database accounts into Power BI
 - Transformed and cleaned data using Power Query to form a star-based
 schema data model including a custom date table, and implemented 25 DAX
@@ -11,6 +11,8 @@ measures to support visualisations and time intelligence
 - Created a 4-page report in Power BI containing 40 visualisations
 - Constructed 5 SQL queries for the same data to generate insights for use
 outside of the Power BI environment.
+
+> Note: the customer data in this exercise is synthetic and doesn't actually represent real people.
 
 ### Step 1. Import Data
 <div style="text-align: center"><img src="images\import.png" width=80%></img></div>
@@ -52,5 +54,5 @@ To aid with overall usability and UI consistency, I added navigation buttons to 
 ### Step 8. SQL Queries
 <div style="text-align: center"><img src="images/sql.png" width=100%></img></div>
 As it is common in the industry for some colleagues or clients to not have direct access to visualisation tools like Power BI, I wrote 5 SQL queries to answer questions of varying complexity, ensuring these insights can still be extracted from the data and shared with a broader audience. You can find the `.sql` and extracted `.csv`s in the SQL folder of this repo.
-
+<br>
 I connected to the same DB with secure credentials via SQLTools in VSCode.
