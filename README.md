@@ -41,4 +41,7 @@ For this page, the focus was on hitting targets, the progress for which was disp
 
 I also began work on the navigation bar on the left of every page, in this case by adding a **slicer button**. This utilizes PowerBI's bookmarks feature to save several states of the report, hiding and unhiding visuals, and works neatly as a pop-out menu that would otherwise be cluttering the report.
 
+### Step 6. Stores Map
+<div style="text-align: center"><img src="images/stores_map.gif" width=100%></img></div>
+Here, I set up a map visual showing us the various stores of the organization and their Profit Year-to-Date. This page also allows drilling-through individual stores to see them in extended detail, as well as a hover-tooltip to quickly see how the store is doing in regards to year-on-year targets, all calculated within the report.
 
