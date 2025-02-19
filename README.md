@@ -98,8 +98,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 ## Contact
-Feel free to reach out.
-[![LinkedIn][linkedin-shield]][linkedin-url]
+Feel free to reach out. <br>
+[![LinkedIn][linkedin-shield]][linkedin-url] <br>
 Kipras Varanavicius - kipras.varanavicius@gmail.com
 
 
